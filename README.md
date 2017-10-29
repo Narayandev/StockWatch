@@ -32,7 +32,7 @@ The StockSearchAPI will be used to acquire the stocks data (via REST service and
 ### Languages:
 Java
 
-### How to downlaod
+### How to download
 1) Go to this link -> https://github.com/Narayandev/StockWatch.git and click on download option in (clone or download) button.
 
 
