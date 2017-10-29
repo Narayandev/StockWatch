@@ -24,3 +24,9 @@
 11.Stock data is pulled using stocksearchapi and parsing the json results.
 
 12.Selected stock symbols and the related names are stored in device's SQLite Database.
+
+### App Uses:
+Internet, RecyclerView, Option-Menus, Multiple AsyncTasks,JSON Data, Swipe-Refresh, Dialogs, SQLite Database
+
+### Languages:
+Java
