@@ -1,4 +1,4 @@
-# StockWatch
+# StockWatch (Android Based App)
 ## Stock watch lets people to quickly and easily track the current stock markets giving them an option to contemplate on their future investments.
 ### Features:
 1.User can view any companies current stock value by adding the company name/stock symbol of the company to their watch list and keep an eye on the companies stock data.
@@ -27,6 +27,12 @@
 
 ### App Uses:
 Internet, RecyclerView, Option-Menus, Multiple AsyncTasks,JSON Data, Swipe-Refresh, Dialogs, SQLite Database
+The StockSearchAPI will be used to acquire the stocks data (via REST service and JSON results).
 
 ### Languages:
 Java
+
+### How to downlaod
+1) Go to this link -> https://github.com/Narayandev/StockWatch.git and click on download option in (clone or download) button.
+
+
